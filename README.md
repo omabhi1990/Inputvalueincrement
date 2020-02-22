@@ -1,2 +1,0 @@
-# Inputvalueincrement
-Created with CodeSandbox
