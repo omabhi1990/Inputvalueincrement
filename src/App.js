@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div>
         <A a={this.state.v} />
-        <B handleInput={this.handleInput} />
+        <B b={this.handleInput} />
       </div>
     );
   }
