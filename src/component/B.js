@@ -8,7 +8,7 @@ class B extends Component {
   render() {
     return (
       <div>
-        Component B<button onClick={this.props.handleInput}>OK</button>
+        Component B<button onClick={this.props.b}>OK</button>
       </div>
     );
   }
